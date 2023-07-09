@@ -1,0 +1,54 @@
+popularity
+Newest
+Price: Low to High
+Price: High to Low
+Discount
+
+Users:
+    UserID
+    UserName
+
+
+Product:
+    productId
+    Date Of Arrival
+    Quantity
+    Category
+    Name
+    description
+    brand
+    offerPrice
+    ActualPrice
+    status
+
+Categories:
+    CategoryId
+    Category
+    ItemId
+
+
+Cart:
+    CartId
+    Items
+    UserID
+
+CartItems:
+    ItemId
+    ItemQty
+    cartId
+
+Bokkings:
+    BookingId
+    UserID
+    ItemId
+    Booking Date
+
+
+
+
+
+
+
+
+
+

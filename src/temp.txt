@@ -1,0 +1,12 @@
+itemId
+name
+quantity
+brand
+actual_price
+offer_price
+description
+category
+availability
+date_of_availability
+first_image
+second_image
