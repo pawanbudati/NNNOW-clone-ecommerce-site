@@ -16,7 +16,7 @@ const ExtraTopHeader = ({ eHeaderAd }) => {
         console.log('redirecting to eHeaderAd!!');
     }
     const loyality = () => {
-        console.log('loyality dunction is called!!');
+        console.log('loyality function is called!!');
     }
 
     return (

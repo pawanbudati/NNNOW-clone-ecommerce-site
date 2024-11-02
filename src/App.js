@@ -85,7 +85,7 @@ let coupons = [
     ],
 ];
 
-let randomMenuItems;
+let randomMenuItems = [];
 axios
     .get(getAllItemsByCategoryUrl, {
         params: { category: "random" },
